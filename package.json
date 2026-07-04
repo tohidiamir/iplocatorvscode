@@ -2,7 +2,7 @@
   "name": "ip-guard",
   "displayName": "IP Guard",
   "description": "نمایش دائمی IP، تاریخچه ۱۰ IP خارجی، هشدار تغییر IP و مسدودسازی ایران",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": { "vscode": "^1.80.0" },
   "activationEvents": ["onStartupFinished"],
   "main": "./extension.js",
